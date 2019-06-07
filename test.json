@@ -16,49 +16,31 @@
     },
     {
      "name": "Belgium",
-     "description": "Belgium", "size": 6991}
-     ]
-    },
+     "description": "Belgium", "size": 6991},
     {
      "name": "Denmark",
-     "description": "Denmark", "size": 29278}
-     ]
-    },
+     "description": "Denmark", "size": 29278},
     {
      "name": "Finland",
-     "description": "Finland", "size": 298}
-     ]
-    },
+     "description": "Finland", "size": 298},
     {
      "name": "France",
-     "description": "France", "size": 71901}
-     ]
-    },
+     "description": "France", "size": 71901},
     {
      "name": "Germany",
-     "description": "Germany", "size": 751769}
-    ]
-    },
+     "description": "Germany", "size": 751769},
     {
      "name": "Greece",
-     "description": "Greece", "size": 209}
-     ]
-    },
+     "description": "Greece", "size": 209},
     {
      "name": "Ireland",
-     "description": "Ireland", "size": 422264}
-     ]
-    },
+     "description": "Ireland", "size": 422264},
     {
      "name": "Italy",
-     "description": "Italy", "size": 46296}
-     ]
-    },
+     "description": "Italy", "size": 46296},
     {
      "name": "Netherlands",
-     "description": "Netherlands", "size": 14267}
-     ]
-    },
+     "description": "Netherlands", "size": 14267},
     {
      "name": "Norway-Sweden",
      "description": "Norway-Sweden",
@@ -69,34 +51,22 @@
     },
     {
      "name": "Poland",
-     "description": "Poland", "size": 11016}
-     ]
-    },
+     "description": "Poland", "size": 11016},
     {
      "name": "Portugal",
-     "description": "Portugal", "size": 13990}
-     ]
-    },
+     "description": "Portugal", "size": 13990},
     {
      "name": "Russia",
-     "description": "Russia", "size": 34977}
-     ]
-    },
+     "description": "Russia", "size": 34977},
     {
      "name": "Spain",
-     "description": "Spain", "size": 5571}
-     ]
-    },
+     "description": "Spain", "size": 5571},
     {
      "name": "Swizterland",
-     "description": "Switzerland", "size": 25212}
-     ]
-    },
+     "description": "Switzerland", "size": 25212},
     {
      "name": "United Kingdom",
      "description": "United Kingdom", "size": 578447}
-     ]
-    }
    ]
   },
   {
