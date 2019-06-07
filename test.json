@@ -7,97 +7,97 @@
     {
      "name": "Austria-Hungary",
      "children": [
-      {"name": "Austria", "size": 54529},
-      {"name": "Hungary", "size": 5598}
+      {"name": "Austria", "value": 54529},
+      {"name": "Hungary", "value": 5598}
      ]
     },
-    {"name": "Belgium",  "size": 6991},
-    {"name": "Denmark", "size": 29278},
+    {"name": "Belgium",  "value": 6991},
+    {"name": "Denmark", "value": 29278},
     {
-     "name": "Finland", "size": 298},
+     "name": "Finland", "value": 298},
     {
-     "name": "France", "size": 71901},
+     "name": "France", "value": 71901},
     {
-     "name": "Germany","size": 751769},
+     "name": "Germany","value": 751769},
     {
-     "name": "Greece", "size": 209},
+     "name": "Greece", "value": 209},
     {
-     "name": "Ireland", "size": 422264},
+     "name": "Ireland", "value": 422264},
     {
-     "name": "Italy", "size": 46296},
+     "name": "Italy", "value": 46296},
     {
-     "name": "Netherlands","size": 14267},
+     "name": "Netherlands","value": 14267},
     {
      "name": "Norway-Sweden",
      "children": [
-      {"name": "Norway",  "size": 88644},
-      {"name": "Sweden", "size": 90179}
+      {"name": "Norway",  "value": 88644},
+      {"name": "Sweden", "value": 90179}
      ]
     },
     {
-     "name": "Poland","size": 11016},
+     "name": "Poland","value": 11016},
     {
-     "name": "Portugal", "size": 13990},
+     "name": "Portugal", "value": 13990},
     {
-     "name": "Russia","size": 34977},
+     "name": "Russia","value": 34977},
     {
-     "name": "Spain","size": 5571},
+     "name": "Spain","value": 5571},
     {
-     "name": "Swizterland","size": 25212},
+     "name": "Swizterland","value": 25212},
     {
-     "name": "United Kingdom", "size": 578447}
+     "name": "United Kingdom", "value": 578447}
    ]
   },
   {
    "name": "Asia",
    "children": [
-    {"name": "China","size": 133139},
-    {"name": "India",  "size": 166},
-    {"name": "Iran",  "size": 17},
-    {"name": "Japan",  "size": 193},
-    {"name": "Philippines", "size": 4},
-    {"name": "Syria",  "size": 7},
-    {"name": "Turkey",  "size": 382}
+    {"name": "China","value": 133139},
+    {"name": "India",  "value": 166},
+    {"name": "Iran",  "value": 17},
+    {"name": "Japan",  "value": 193},
+    {"name": "Philippines", "value": 4},
+    {"name": "Syria",  "value": 7},
+    {"name": "Turkey",  "value": 382}
    ]
   },
   {
    "name": "America",
    "children": [
-    {"name": "Canada and Newfoundland", "size": 323974},
-    {"name": "Mexico","size": 5133},
+    {"name": "Canada and Newfoundland", "value": 323974},
+    {"name": "Mexico","value": 5133},
     {"name": "Caribbean",
       "children": [
-        {"name": "Cuba","size": 8705},
-        {"name": "Haiti",  "size": 149},
-        {"name": "Jamaica",  "size": 257},
-        {"name": "Other",  "size": 5481}
+        {"name": "Cuba","value": 8705},
+        {"name": "Haiti",  "value": 149},
+        {"name": "Jamaica",  "value": 257},
+        {"name": "Other",  "value": 5481}
         ]
       },
     {"name": "Central America",
       "children": [
-        {"name": "Belize",  "size": 26},
-        {"name": "Costa Rica",  "size": 4},
-        {"name": "El Salvador", "size": 3},
-        {"name": "Guatemala",  "size": 10},
-        {"name": "Honduras",  "size": 11},
-        {"name": "Nicaragua",  "size": 1},
-        {"name": "Other",  "size": 147}
+        {"name": "Belize",  "value": 26},
+        {"name": "Costa Rica",  "value": 4},
+        {"name": "El Salvador", "value": 3},
+        {"name": "Guatemala",  "value": 10},
+        {"name": "Honduras",  "value": 11},
+        {"name": "Nicaragua",  "value": 1},
+        {"name": "Other",  "value": 147}
       ]
     },
     {"name": "South America",
       "children": [
-        {"name": "Argentina",  "size": 58},
-        {"name": "Bolivia",  "size": 5},
-        {"name": "Brazil",  "size": 219},
-        {"name": "Chile",  "size": 92},
-        {"name": "Colombia",  "size": 196},
-        {"name": "Ecuador",  "size": 7},
-        {"name": "Guyana",  "size": 95},
-        {"name": "Paraguay",  "size": 2},
-        {"name": "Peru",  "size": 127},
-        {"name": "Uruguay",  "size": 22},
-        {"name": "Venezuela",  "size": 190},
-        {"name": "Other",  "size": 96}
+        {"name": "Argentina",  "value": 58},
+        {"name": "Bolivia",  "value": 5},
+        {"name": "Brazil",  "value": 219},
+        {"name": "Chile",  "value": 92},
+        {"name": "Colombia",  "value": 196},
+        {"name": "Ecuador",  "value": 7},
+        {"name": "Guyana",  "value": 95},
+        {"name": "Paraguay",  "value": 2},
+        {"name": "Peru",  "value": 127},
+        {"name": "Uruguay",  "value": 22},
+        {"name": "Venezuela",  "value": 190},
+        {"name": "Other",  "value": 96}
       ]
     }
    ]
@@ -105,19 +105,19 @@
   {
    "name": "Africa",
    "children": [
-    {"name": "Egypt",  "size": 29},
-    {"name": "Liberia",  "size": 52},
-    {"name": "Morocco",  "size": 15},
-    {"name": "South Africa",  "size": 48},
-    {"name": "Other",  "size": 297}
+    {"name": "Egypt",  "value": 29},
+    {"name": "Liberia",  "value": 52},
+    {"name": "Morocco",  "value": 15},
+    {"name": "South Africa",  "value": 48},
+    {"name": "Other",  "value": 297}
    ]
   },
   {
    "name": "Oceania",
    "children": [
-    {"name": "Australia",  "size": 8933},
-    {"name": "New Zealand",  "size": 39},
-    {"name": "Other",  "size": 122}
+    {"name": "Australia",  "value": 8933},
+    {"name": "New Zealand",  "value": 39},
+    {"name": "Other",  "value": 122}
    ]
   }
  ]
