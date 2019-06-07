@@ -5,7 +5,7 @@
    "name": "Europe",
    "children": [
     {
-     "name": "Austria-Hungary",
+     "name": "AustriaHungary",
      "children": [
       {"name": "Austria", "value": 54529},
       {"name": "Hungary", "value": 5598}
@@ -28,7 +28,7 @@
     {
      "name": "Netherlands","value": 14267},
     {
-     "name": "Norway-Sweden",
+     "name": "NorwaySweden",
      "children": [
       {"name": "Norway",  "value": 88644},
       {"name": "Sweden", "value": 90179}
@@ -45,7 +45,7 @@
     {
      "name": "Swizterland","value": 25212},
     {
-     "name": "United Kingdom", "value": 578447}
+     "name": "UnitedKingdom", "value": 578447}
    ]
   },
   {
@@ -63,7 +63,7 @@
   {
    "name": "America",
    "children": [
-    {"name": "Canada and Newfoundland", "value": 323974},
+    {"name": "CanadaNewfoundland", "value": 323974},
     {"name": "Mexico","value": 5133},
     {"name": "Caribbean",
       "children": [
@@ -73,7 +73,7 @@
         {"name": "Other",  "value": 5481}
         ]
       },
-    {"name": "Central America",
+    {"name": "CentralAmerica",
       "children": [
         {"name": "Belize",  "value": 26},
         {"name": "Costa Rica",  "value": 4},
@@ -84,7 +84,7 @@
         {"name": "Other",  "value": 147}
       ]
     },
-    {"name": "South America",
+    {"name": "SouthAmerica",
       "children": [
         {"name": "Argentina",  "value": 58},
         {"name": "Bolivia",  "value": 5},
@@ -108,7 +108,7 @@
     {"name": "Egypt",  "value": 29},
     {"name": "Liberia",  "value": 52},
     {"name": "Morocco",  "value": 15},
-    {"name": "South Africa",  "value": 48},
+    {"name": "SouthAfrica",  "value": 48},
     {"name": "Other",  "value": 297}
    ]
   },
@@ -116,7 +116,7 @@
    "name": "Oceania",
    "children": [
     {"name": "Australia",  "value": 8933},
-    {"name": "New Zealand",  "value": 39},
+    {"name": "NewZealand",  "value": 39},
     {"name": "Other",  "value": 122}
    ]
   }
