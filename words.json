@@ -1,17 +1,26 @@
 {
   "nodes": [
     {"id": "General", "group": 1},
+    {"id": "yellow", "group": 1},
+    {"id": "yellow peril", "group": 1},
     {"id": "China", "group": 2},
+    {"id": "chinamen", "group": 2},
+    {"id": "yellow peril", "group": 4},
+    {"id": "menace", "group": 4},
+    {"id": "horde", "group": 3},
     {"id": "India", "group": 3},
+    {"id": "little brown men", "group": 6},
+    {"id": "helpless", "group": 7},
+    {"id": "Jap", "group": 5},
     {"id": "Japan", "group": 4},
     {"id": "Korea", "group": 5},
     {"id": "Philippines", "group": 6},
+    {"id": "filthy", "group": 2},
     {"id": "Vietnam", "group": 7}
   ],
   "links": [
-    {"source": "All", "target": "yellow", "value": 1},
-    {"source": "All", "target": "yellow peril", "value": 1},
-    {"source": "All", "target": "rice", "value": 1},
+    {"source": "General", "target": "yellow", "value": 1},
+    {"source": "General", "target": "yellow peril", "value": 1},
     {"source": "China", "target": "Chinamen", "value": 2},
     {"source": "Japan", "target": "yellow peril", "value": 4},
     {"source": "Japan", "target": "menace", "value": 4},
@@ -19,6 +28,6 @@
     {"source": "India", "target": "horde", "value": 3},
     {"source": "Philippines", "target": "little brown men", "value": 6},
     {"source": "Vietnam", "target": "helpless", "value": 7},
-    {"source": "Korea", "target": "Jap", "value": 5}
+    {"source": "Korea", "target": "Jap", "value": 1}
   ]
 }
