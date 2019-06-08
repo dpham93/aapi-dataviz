@@ -4,7 +4,6 @@
     {"id": "yellow", "group": 1},
     {"id": "yellow peril", "group": 1},
     {"id": "China", "group": 2},
-    {"id": "Chinamen", "group": 2},
     {"id": "yellow peril", "group": 4},
     {"id": "menace", "group": 4},
     {"id": "horde", "group": 3},
@@ -21,7 +20,6 @@
   "links": [
     {"source": "General", "target": "yellow", "value": 1},
     {"source": "General", "target": "yellow peril", "value": 1},
-    {"source": "China", "target": "Chinamen", "value": 2},
     {"source": "Japan", "target": "yellow peril", "value": 4},
     {"source": "Japan", "target": "menace", "value": 4},
     {"source": "China", "target": "filthy", "value": 2},
