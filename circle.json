@@ -8,14 +8,13 @@
      "name": "positive",
      "children": [
       {"name": "beautiful", "value": 100},
-      {"name": "peaceable", "value": 100},
-      {"name": "economical", "value": 100},
-      {"name": "prompt", "value": 100},
+      {"name": "peaceable", "value": 200},
       {"name": "friends", "value": 100},
       {"name": "courteous", "value": 100},
-      {"name": "law-abiding", "value": 100},
       {"name": "kind", "value": 100},
-      {"name": "open", "value": 100}
+      {"name": "quick to learn", "value": 100},
+      {"name": "saintly", "value": 100},
+      {"name": "placid", "value": 100}
      ]
     },
     {
@@ -28,25 +27,32 @@
       {"name": "diseased", "value": 100},
       {"name": "degraded", "value": 100},
       {"name": "machine-like", "value": 100},
-      {"name": "marginal", "value": 100},
       {"name": "pollution", "value": 100},
       {"name": "not good citizens", "value": 100},
       {"name": "yellow wave", "value": 100},
       {"name": "yellow plague", "value": 100},
-      {"name": "saintly", "value": 100},
       {"name": "savage", "value": 100},
       {"name": "uncivilized", "value": 100},
+      {"name": "freaks", "value": 100},
       {"name": "evil", "value": 100},
       {"name": "rats", "value": 100},
       {"name": "beasts", "value": 100},
       {"name": "swine", "value": 100},
-      {"name": "immoral", "value": 100}
+      {"name": "immoral", "value": 100},
+      {"name": "Chinamen", "value": 200},
+      {"name": "inferior", "value": 200}
      ]
     },
     {
      "name": "neutral",
      "children": [
-      {"name": "quiet", "value": 200}
+      {"name": "quiet", "value": 200},
+      {"name": "economical", "value": 100},
+      {"name": "prompt", "value": 100},
+      {"name": "steady", "value": 100},
+      {"name": "marginal", "value": 100},
+      {"name": "law-abiding", "value": 100},
+      {"name": "open", "value": 100}
      ]
     }
    ]
@@ -60,37 +66,38 @@
       {"name": "picturesque", "value": 100},
       {"name": "neat", "value": 100},
       {"name": "clean", "value": 100},
-      {"name": "industrious", "value": 100},
       {"name": "obliging", "value": 100}
      ]
     },
     {
      "name": "negative",
      "children": [
-      {"name": "dirty", "value": 100},
       {"name": "gaunt", "value": 100},
       {"name": "repulsive", "value": 100},
       {"name": "disgusting", "value": 100},
-      {"name": "monkey", "value": 100},
-      {"name": "problem", "value": 300},
-      {"name": "threat", "value": 100}
-     ]
-    },
-    {
-     "name": "neutral",
-     "children": [
-      {"name": "dark skinned", "value": 100}
+      {"name": "threat", "value": 100},
+      {"name": "monkey", "value": 100}
+
      ]
     }
+
    ]
   },
   {
    "name": "Japan",
    "children": [
+     {
+      "name": "positive",
+      "children": [
+       {"name": "superior", "value": 100},
+       {"name": "positive", "value": 100},
+       {"name": "organized", "value": 100}
+      ]
+     },
     {
      "name": "negative",
      "children": [
-      {"name": "yellow jap", "value": 100},
+      {"name": "jap", "value": 700},
       {"name": "calamity", "value": 100},
       {"name": "heathen", "value": 100},
       {"name": "swarming", "value": 200},
@@ -134,31 +141,38 @@
    "name": "Shared",
    "children": [
     {
-     "name": "negative",
-     "children": [
-      {"name": "invasion", "value": 800},
-      {"name": "Mongolian", "value": 300},
-      {"name": "jap", "value": 400}
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Asia",
-   "children": [
-    {
      "name": "positive",
      "children": [
       {"name": "outstanding", "value": 100},
       {"name": "wealthy", "value": 100},
       {"name": "educated", "value": 300},
-      {"name": "smart", "value": 200}
+      {"name": "spectacular", "value": 100},
+      {"name": "smart", "value": 200},
+      {"name": "traditional", "value": 100},
+      {"name": "industrious", "value": 200},
+      {"name": "ally", "value": 200}
+
      ]
     },
     {
      "name": "negative",
      "children": [
-      {"name": "Yellow Peril", "value": 400}
+      {"name": "yellow peril", "value": 400},
+      {"name": "problem", "value": 400},
+      {"name": "invasion", "value": 800},
+      {"name": "undesirable", "value": 500},
+      {"name": "lazy", "value": 200},
+      {"name": "unassimable", "value": 300},
+      {"name": "enemy", "value": 400},
+      {"name": "menace", "value": 200},
+      {"name": "dirty", "value": 200}
+
+
+
+
+
+
+
      ]
     }
    ]
