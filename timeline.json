@@ -12,32 +12,6 @@
       {"name": "neat", "value": 100},
       {"name": "clean", "value": 100}
      ]
-    },
-    {
-     "name": "China",
-     "children": [
-      {"name": "filthy", "value": 100},
-      {"name": "vicious", "value": 100},
-      {"name": "contagious", "value": 100},
-      {"name": "infectious", "value": 100},
-      {"name": "diseased", "value": 100},
-      {"name": "degraded", "value": 100},
-      {"name": "machine-like", "value": 100},
-      {"name": "pollution", "value": 100},
-      {"name": "not good citizens", "value": 100},
-      {"name": "yellow wave", "value": 100},
-      {"name": "yellow plague", "value": 100},
-      {"name": "savage", "value": 100},
-      {"name": "uncivilized", "value": 100},
-      {"name": "freaks", "value": 100},
-      {"name": "evil", "value": 100},
-      {"name": "rats", "value": 100},
-      {"name": "beasts", "value": 100},
-      {"name": "swine", "value": 100},
-      {"name": "immoral", "value": 100},
-      {"name": "Chinamen", "value": 200},
-      {"name": "inferior", "value": 200}
-     ]
     }
 
    ]
@@ -67,7 +41,7 @@
       "name": "China",
       "children": [
        {"name": "degraded", "value": 100},
-       {"name": "inferior", "value": 100},
+       {"name": "inferior", "value": 200},
        {"name": "rats", "value": 100},
        {"name": "beasts", "value": 100},
        {"name": "swine", "value": 100},
@@ -86,7 +60,7 @@
        {"name": "uncivilized", "value": 100},
        {"name": "freaks", "value": 100},
        {"name": "evil", "value": 100},
-       {"name": "Chinamen", "value": 100}
+       {"name": "Chinamen", "value": 200}
       ]
      }
    ]
