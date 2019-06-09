@@ -137,7 +137,7 @@
      "name": "negative",
      "children": [
       {"name": "invasion", "value": 800},
-      {"name": "Mongolian", "value": 300}
+      {"name": "Mongolian", "value": 300},
       {"name": "jap", "value": 400}
      ]
     }
