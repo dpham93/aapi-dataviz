@@ -64,6 +64,61 @@
           ]
         }
       ]
+    },
+        {
+      "name": "1910s",
+      "children": [
+        {
+          "name": "Japan",
+          "children": [
+            {"name": "calamity", "value": 100},
+            {"name": "heathens", "value": 100},
+            {"name": "invaders", "value": 300},
+            {"name": "yellow peril", "value": 300},
+            {"name": "jap", "value": 400},
+            {"name": "swarming", "value": 100},
+            {"name": "yellow blight", "value": 100},
+            {"name": "unassimilable", "value": 200},
+            {"name": "deadly", "value": 100},
+            {"name": "menace", "value": 200},
+            {"name": "enemy", "value": 100},
+            {"name": "danger", "value": 100}
+          ]
+        },
+        {
+          "name": "Korea",
+          "children": [
+            {"name": "Orientals", "value": 100},
+            {"name": "jap", "value": 200},
+            {"name": "chink", "value": 100}
+          ]
+        },
+        {
+          "name": "India",
+          "children": [
+            {"name": "picturesque", "value": 100},
+            {"name": "invasion", "value": 200},
+            {"name": "repulsive", "value": 100},
+            {"name": "disgusting", "value": 200},
+            {"name": "gaunt", "value": 100},
+            {"name": "dirty", "value": 100},
+            {"name": "undesirable", "value": 300}
+          ]
+        },
+        {
+          "name": "Filipino",
+          "children": [
+            {"name": "little brown brothers", "value": 300},
+            {"name": "invasion", "value": 100},
+            {"name": "criminal", "value": 100},
+            {"name": "untamed", "value": 100},
+            {"name": "jungle folk", "value": 100},
+            {"name": "swarming", "value": 100},
+            {"name": "problem", "value": 100},
+            {"name": "menace", "value": 100}
+          ]
+        }
+      ]
     }
   ]
 }
