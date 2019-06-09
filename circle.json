@@ -1,0 +1,88 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "China",
+   "children": [
+    {
+     "name": "positive",
+     "children": [
+      {"name": "beautiful", "value": 100},
+      {"name": "peaceable", "value": 100},
+      {"name": "economical", "value": 100},
+      {"name": "prompt", "value": 100}
+     ]
+    },
+    {
+     "name": "negative",
+     "children": [
+      {"name": "filthy", "value": 200},
+      {"name": "vicious", "value": 100},
+      {"name": "contagious", "value": 100},
+      {"name": "infectious", "value": 100},
+      {"name": "diseased", "value": 100}
+     ]
+    },
+    {
+     "name": "neutral",
+     "children": [
+      {"name": "quiet", "value": 200}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Japan",
+   "children": [
+    {
+     "name": "negative",
+     "children": [
+      {"name": "yellow jap", "value": 100},
+      {"name": "calamity", "value": 100},
+      {"name": "heathen", "value": 100},
+      {"name": "swarming", "value": 200},
+      {"name": "Geisha", "value": 100},
+      {"name": "deadly", "value": 100},
+      {"name": "arrogant", "value": 100},
+      {"name": "dangerous", "value": 100}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Filipino",
+   "children": [
+    {
+     "name": "negative",
+     "children": [
+      {"name": "little brown men", "value": 300},
+      {"name": "criminal", "value": 100},
+      {"name": "untamed", "value": 100},
+      {"name": "jungle", "value": 100},
+      {"name": "primitive", "value": 100}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "General",
+   "children": [
+    {
+     "name": "positive",
+     "children": [
+      {"name": "outstanding", "value": 100},
+      {"name": "wealthy", "value": 100},
+      {"name": "educated", "value": 300},
+      {"name": "smart", "value": 200}
+     ]
+    },
+    {
+     "name": "negative",
+     "children": [
+      {"name": "Yellow Peril", "value": 400}
+     ]
+    }
+   ]
+  }
+ ]
+}
