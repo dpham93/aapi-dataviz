@@ -10,7 +10,12 @@
       {"name": "beautiful", "value": 100},
       {"name": "peaceable", "value": 100},
       {"name": "economical", "value": 100},
-      {"name": "prompt", "value": 100}
+      {"name": "prompt", "value": 100},
+      {"name": "friends", "value": 100},
+      {"name": "courteous", "value": 100},
+      {"name": "law-abiding", "value": 100},
+      {"name": "kind", "value": 100},
+      {"name": "open", "value": 100}
      ]
     },
     {
@@ -20,13 +25,61 @@
       {"name": "vicious", "value": 100},
       {"name": "contagious", "value": 100},
       {"name": "infectious", "value": 100},
-      {"name": "diseased", "value": 100}
+      {"name": "diseased", "value": 100},
+      {"name": "degraded", "value": 100},
+      {"name": "machine-like", "value": 100},
+      {"name": "marginal", "value": 100},
+      {"name": "pollution", "value": 100},
+      {"name": "not good citizens", "value": 100},
+      {"name": "yellow wave", "value": 100},
+      {"name": "yellow plague", "value": 100},
+      {"name": "saintly", "value": 100},
+      {"name": "savage", "value": 100},
+      {"name": "uncivilized", "value": 100},
+      {"name": "evil", "value": 100},
+      {"name": "rats", "value": 100},
+      {"name": "beasts", "value": 100},
+      {"name": "swine", "value": 100},
+      {"name": "immoral", "value": 100},
      ]
     },
     {
      "name": "neutral",
      "children": [
       {"name": "quiet", "value": 200}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "India",
+   "children": [
+    {
+     "name": "positive",
+     "children": [
+      {"name": "picturesque", "value": 100},
+      {"name": "neat", "value": 100},
+      {"name": "clean", "value": 100},
+      {"name": "industrious", "value": 100},
+      {"name": "obliging", "value": 100}
+     ]
+    },
+    {
+     "name": "negative",
+     "children": [
+      {"name": "dirty", "value": 100},
+      {"name": "gaunt", "value": 100},
+      {"name": "repulsive", "value": 100},
+      {"name": "disgusting", "value": 100},
+      {"name": "monkey", "value": 100},
+      {"name": "problem", "value": 300},
+      {"name": "threat", "value": 100}
+     ]
+    },
+    {
+     "name": "neutral",
+     "children": [
+      {"name": "dark skinned", "value": 100}
      ]
     }
    ]
@@ -55,7 +108,8 @@
     {
      "name": "negative",
      "children": [
-      {"name": "little brown men", "value": 300},
+      {"name": "little brown men", "value": 100},
+      {"name": "ltitle brown brothers", "value": 300},
       {"name": "criminal", "value": 100},
       {"name": "untamed", "value": 100},
       {"name": "jungle", "value": 100},
@@ -65,7 +119,19 @@
    ]
   },
   {
-   "name": "General",
+   "name": "Korea",
+   "children": [
+    {
+     "name": "negative",
+     "children": [
+      {"name": "stinking", "value": 100},
+      {"name": "Chink", "value": 100}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Asia",
    "children": [
     {
      "name": "positive",
