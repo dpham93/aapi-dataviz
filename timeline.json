@@ -65,7 +65,7 @@
         }
       ]
     },
-        {
+    {
       "name": "1910s",
       "children": [
         {
@@ -120,7 +120,7 @@
         }
       ]
     },
-        {
+    {
       "name": "1940s",
       "children": [
         {
@@ -150,6 +150,50 @@
             {"name": "placid", "value": 100},
             {"name": "kind", "value": 100},
             {"name": "ally", "value": 100}
+
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1950s",
+      "children": [
+        {
+          "name": "Japan",
+          "children": [
+            {"name": "Geisha ally", "value": 100},
+            {"name": "superior", "value": 100}
+
+          ]
+        },
+        {
+          "name": "China",
+          "children": [
+            {"name": "enemy", "value": 100},
+            {"name": "problem", "value": 400}
+
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1980s",
+      "children": [
+        {
+          "name": "Vietnam",
+          "children": [
+            {"name": "helpless", "value": 100}
+
+          ]
+        },
+        {
+          "name": "Hmong",
+          "children": [
+            {"name": "lazy", "value": 100},
+            {"name": "alien", "value": 100},
+            {"name": "Orientals", "value": 100},
+            {"name": "perpetual refugee", "value": 100}
+
 
           ]
         }
